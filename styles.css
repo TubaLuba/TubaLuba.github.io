@@ -4,7 +4,7 @@
 
 body {
   font: 300 100% 'Helvetica Neue', Helvetica, Arial;
-  background: grey;
+  background: #eeeee4;
   margin-left: 200px;
   margin-right: 200px;
 }
@@ -45,18 +45,18 @@ hr {
   height: .25rem;
   width: 25%;
   margin: 0;
-  background: tomato;
+  background: #e28743;
   border: none;
   transition: .3s ease-in-out;
 }
 
 p {
-  color: antiquewhite;
+  color: #21130d;
 }
 h1 {
   font-weight: bold;
   text-decoration:underline;
-  text-decoration-color: beige;
+  text-decoration-color: #154c79;
   
 }
 h4 {
@@ -66,6 +66,8 @@ h4 {
 }
 
 img{
+  border-color: #063970;
+  border-style: solid;
   border-radius: 7px;
   float: right;
   width: 30%;

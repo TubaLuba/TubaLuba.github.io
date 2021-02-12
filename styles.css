@@ -26,7 +26,7 @@ a {
 }
 
 .two:hover ~ hr {
-  margin-left: 25%;
+  margin-left: -25%;
 }
 
 .three:hover ~ hr {

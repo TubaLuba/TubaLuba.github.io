@@ -54,15 +54,16 @@ p {
   color: #21130d;
   animation-name: paragraph_slide;
   animation-duration: 2s;
+  position: relative;
 }
 
 @keyframes paragraph_slide {
-  0%   { left:0px; top:0px;}
-  25%  { left:0px; top:0px;}
-  50%  { left:0px; top:0px;}
-  75%  { left:0px; top:0px;}
-  76%  { left:0px; top:0px;}
-  100% { left:0px; top:0px;}
+  0%   { }
+  25%  { }
+  50%  { }
+  75%  {}
+  76%  { }
+  100% {}
   
   
 h1 {

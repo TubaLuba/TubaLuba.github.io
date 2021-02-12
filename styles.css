@@ -52,19 +52,9 @@ hr {
 
 p {
   color: #21130d;
-  animation-name: paragraph_slide;
-  animation-duration: 2s;
-  position: relative;
 }
 
-@keyframes paragraph_slide {
-  0%   { }
-  25%  { }
-  50%  { }
-  75%  {}
-  76%  { }
-  100% {}
-  
+
   
 h1 {
   font-weight: bold;
@@ -83,5 +73,5 @@ img{
   border-style: solid;
   border-radius: 7px;
   float: right;
-  width: 100px;
+  width: 30%;
 }

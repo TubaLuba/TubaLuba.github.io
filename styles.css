@@ -4,6 +4,7 @@
 
 body {
   font: 300 100% 'Helvetica Neue', Helvetica, Arial;
+  background: grey;
 }
 
 .container {
@@ -44,4 +45,25 @@ hr {
   background: tomato;
   border: none;
   transition: .3s ease-in-out;
+}
+
+p {
+  color: antiquewhite;
+}
+h1 {
+  font-weight: bold;
+  text-decoration:underline;
+  text-decoration-color: beige;
+  
+}
+h4 {
+  color: lightpink;
+  font-weight: bolder;
+  text-decoration-line: underline;
+}
+
+img{
+  border-radius: 7px;
+  float: right;
+  margin-right:20px;
 }

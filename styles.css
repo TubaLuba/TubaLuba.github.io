@@ -5,6 +5,8 @@
 body {
   font: 300 100% 'Helvetica Neue', Helvetica, Arial;
   background: grey;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .container {
@@ -67,4 +69,5 @@ img{
   border-radius: 7px;
   float: right;
   margin-right:20px;
+  width: 30%;
 }

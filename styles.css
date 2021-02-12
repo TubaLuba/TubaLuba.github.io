@@ -5,8 +5,8 @@
 body {
   font: 300 100% 'Helvetica Neue', Helvetica, Arial;
   background: grey;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .container {
@@ -68,6 +68,5 @@ h4 {
 img{
   border-radius: 7px;
   float: right;
-  margin-right:20px;
   width: 30%;
 }

@@ -52,7 +52,6 @@ hr {
 
 p {
   color: #21130d;
-  position: relative;
   animation-name: paragraph_slide;
   animation-duration: 2s;
 }

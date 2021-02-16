@@ -54,6 +54,14 @@ p {
   color: #21130d;
 }
 
+a {
+  color: #e28743;
+  font-weight: bolder;
+  text-decoration: dotted;
+  text-decoration-color: #21130d;
+
+
+}
 
   
 h1 {

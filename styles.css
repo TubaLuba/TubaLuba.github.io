@@ -29,6 +29,10 @@ ul li {
   color: #333;
 }
 
+.one:hover ~ hr {
+  margin-left: 0%;
+}
+
 .two:hover ~ hr {
   margin-left: 25%;
 }
@@ -44,7 +48,7 @@ ul li {
 hr {
   height: .25rem;
   width: 25%;
-  margin-left: 25%;
+  margin: 0;
   background: #e28743;
   border: none;
   transition: .3s ease-in-out;

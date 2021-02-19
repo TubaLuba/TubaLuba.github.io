@@ -54,6 +54,10 @@ hr {
   transition: .3s ease-in-out;
 }
 
+.about_nav {
+margin-left: 25%;
+}
+
 p {
   color: #21130d;
 }

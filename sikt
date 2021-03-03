@@ -1,0 +1,1105 @@
+<html lang="nb-no" dir="ltr" vocab="http://schema.org/" class="wk-notouch"><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="/images/elementer/sikt-pa-asheim-logo.png">
+        <link rel="apple-touch-icon-precomposed" href="/images/elementer/sikt-pa-asheim-logo.png">
+        <meta charset="utf-8">
+	<base href="https://xn--siktpsheim-55aa.no/">
+	<meta name="author" content="Super User">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Sikt på åsheim - Forsiden</title>
+	<link href="/templates/yootheme/css/theme.9.css?v=1544618549" rel="stylesheet" id="theme-style-css">
+	<link href="/media/widgetkit/wk-styles-3be1b424.css" rel="stylesheet" id="wk-styles-css">
+	<script src="/templates/yootheme/vendor/assets/uikit/dist/js/uikit.min.js?v=1.16.6"></script>
+	<script src="/templates/yootheme/vendor/assets/uikit/dist/js/uikit-icons-max.min.js?v=1.16.6"></script>
+	<script src="/templates/yootheme/js/theme.js?v=1.16.6"></script>
+	<script src="/media/jui/js/jquery.min.js?7ece4679546c74fcff9c1d60b7455f4e"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?7ece4679546c74fcff9c1d60b7455f4e"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?7ece4679546c74fcff9c1d60b7455f4e"></script>
+	<script src="/media/widgetkit/uikit2-6335c571.js"></script>
+	<script src="/media/widgetkit/wk-scripts-d0a8e9e4.js"></script>
+	<script>
+document.addEventListener('DOMContentLoaded', function() {
+    Array.prototype.slice.call(document.querySelectorAll('a span[id^="cloak"]')).forEach(function(span) {
+        span.innerText = span.textContent;
+    });
+});
+	</script>
+
+    <script type="text/javascript">(function(){function a(){"complete"!==document.readyState||b||(b=!0,document.removeEventListener("readystatechange",a,!1));if(window.$IBOG){b||(b=!0,document.removeEventListener("readystatechange",a,!1));var c=function(){for(var a=window.$IBOG_OCR,b=a.getSelectedOCR(),c,d,m,l,n,r=0;r<b.length;r++)n=b[r],c=Math.round(n.bbox[1]/a.pages[n.pageId].originalHeight*a.pages[n.pageId].currentHeight)+a.pages[n.pageId].currentPosition.y-1,d=Math.round(n.bbox[0]/a.pages[n.pageId].originalHeight*a.pages[n.pageId].currentHeight)+
+a.pages[n.pageId].currentPosition.x,m=Math.round((n.bbox[2]-n.bbox[0])/a.pages[n.pageId].originalHeight*a.pages[n.pageId].currentHeight),l=Math.round((n.bbox[3]-n.bbox[1])/a.pages[n.pageId].originalHeight*a.pages[n.pageId].currentHeight)+2,n.rect={left:d,top:c,width:m,height:l},n.text=n.text.replace(/\|/g,"");window.postMessage({__appwriter_cloud__laesloes_gyldendal:!0,text:window.$IBOG_OCR.getSelection(),ocr:b},location.origin)},d=function(){b=!0;window.$IBOG.removeEventListener("selectionEnd",c);
+document.removeEventListener("readystatechange",a,!1);document.removeEventListener("appwriter-dispose",d,!1)};window.$IBOG.addEventListener("selectionEnd",c);document.addEventListener("appwriter-dispose",d,!1)}}var b=!1;document.addEventListener("readystatechange",a,!1);a()})()</script></head>
+    <body class="">
+
+        
+        <div class="tm-page">
+
+            <div class="tm-header-mobile uk-hidden@m">
+            
+
+    <nav class="uk-navbar-container uk-navbar" uk-navbar="">
+
+                <div class="uk-navbar-left">
+
+            
+                        <a class="uk-navbar-toggle" href="#tm-mobile" uk-toggle="">
+                <div uk-navbar-toggle-icon="" class="uk-navbar-toggle-icon uk-icon"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><rect y="9" width="20" height="2"></rect><rect y="3" width="20" height="2"></rect><rect y="15" width="20" height="2"></rect></svg></div>
+                            </a>
+            
+            
+        </div>
+        
+                <div class="uk-navbar-center">
+            <a class="uk-navbar-item uk-logo" href="https://xn--siktpsheim-55aa.no">
+                <img src="/templates/yootheme/cache/sikt-pa-asheim-logo-1fb7a328.png" srcset="/templates/yootheme/cache/sikt-pa-asheim-logo-1fb7a328.png 150w, /templates/yootheme/cache/sikt-pa-asheim-logo-58bc2403.png 300w" sizes="(min-width: 150px) 150px" data-width="750" data-height="640" alt="SIKT ÅSHEIM">            </a>
+        </div>
+        
+        
+    </nav>
+
+    
+
+<div id="tm-mobile" uk-offcanvas="" mode="slide" overlay="" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close uk-close uk-icon" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+        
+            
+<div class="uk-child-width-1-1 uk-grid" uk-grid="">
+            <div>
+<div class="uk-panel" id="module-0">
+
+    
+    
+<ul class="uk-nav uk-nav-default">
+
+	<li class="uk-active"><a href="/index.php">Forsiden</a></li>
+	<li><a href="/index.php/nyheter">Nyheter</a></li>
+	<li><a href="/index.php/sport-kultur">Sport &amp; Kultur</a></li>
+	<li><a href="/index.php/debatt">Debatt</a></li>
+	<li><a href="/index.php/tv">TV</a></li>
+	<li><a href="/index.php/kontakt-oss">Kontakt oss</a></li></ul>
+
+</div>
+</div>
+    </div>
+
+
+            
+    </div>
+</div>
+
+            </div>
+
+            
+            
+<div class="tm-header uk-visible@m" uk-header="">
+
+
+        <div uk-sticky="" media="@m" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container" class="uk-sticky uk-sticky-fixed" style="position: fixed; top: 0px; width: 1366px;">
+    
+        <div class="uk-navbar-container">
+
+            <div class="uk-container">
+                <nav class="uk-navbar" uk-navbar="{&quot;align&quot;:&quot;left&quot;,&quot;boundary&quot;:&quot;!.uk-navbar-container&quot;}">
+
+                                        <div class="uk-navbar-left">
+
+                        
+<a href="https://xn--siktpsheim-55aa.no" class="uk-navbar-item uk-logo">
+    <img src="/templates/yootheme/cache/sikt-pa-asheim-logo-1fb7a328.png" srcset="/templates/yootheme/cache/sikt-pa-asheim-logo-1fb7a328.png 150w, /templates/yootheme/cache/sikt-pa-asheim-logo-58bc2403.png 300w" sizes="(min-width: 150px) 150px" data-width="750" data-height="640" alt="SIKT ÅSHEIM"></a>
+
+                        
+                    </div>
+                    
+                    
+                                        <div class="uk-navbar-right">
+
+                                                    
+<ul class="uk-navbar-nav">
+
+	<li class="uk-active"><a href="/index.php">Forsiden</a></li>
+	<li><a href="/index.php/nyheter">Nyheter</a></li>
+	<li><a href="/index.php/sport-kultur">Sport &amp; Kultur</a></li>
+	<li><a href="/index.php/debatt">Debatt</a></li>
+	<li><a href="/index.php/tv">TV</a></li>
+	<li><a href="/index.php/kontakt-oss">Kontakt oss</a></li></ul>
+
+                        
+                        
+
+                    </div>
+                    
+                </nav>
+            </div>
+
+        </div>
+
+        </div><div class="uk-sticky-placeholder" style="height: 0px; margin: 0px;"></div>
+    
+
+
+
+
+</div>
+
+            
+
+            
+            <div id="system-message-container">
+</div>
+
+            
+
+            
+<div class="uk-section-default uk-section uk-padding-remove-top" uk-scrollspy="target: [uk-scrollspy-class]; cls: uk-animation-fade; delay: false;">
+    
+        
+        
+        
+            
+                                <div class="uk-container">
+
+<div class="uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
+<div class="uk-width-expand@m uk-first-column">
+    
+        
+            
+            
+                <div class="uk-margin uk-scrollspy-inview uk-animation-fade" uk-scrollspy-class="" style=""><p>
+
+</p><div id="wk-grid30a" class="wk-grid-width-1-1 wk-grid wk-grid-match wk-text-left " data-wk-grid-match="{target:'> div > .wk-panel', row:true}" data-wk-grid-margin="" data-wk-scrollspy="{cls:'wk-animation-fade wk-invisible', target:'> div > .wk-panel', delay:300}">
+
+
+    <div class="wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-hover wk-overlay-hover wk-scrollspy-init-inview wk-scrollspy-inview wk-animation-fade">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/12-toppsak/184-10-arsfest-med-tronderlaks-a-la-asia" title="10-årsfest med trønderlaks à la Asia"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/Laks-7e9fdbd7f9c4f49136ace1d314c1d9c1.jpg" class=" wk-overlay-scale" alt="10-årsfest med trønderlaks à la Asia" width="1920" height="1080" style=""></div></div>
+            
+            
+                        <h3 class="wk-heading-large wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/12-toppsak/184-10-arsfest-med-tronderlaks-a-la-asia">10-årsfest med trønderlaks à la Asia</a>
+                
+                
+            </h3>
+            
+            
+            
+                        <div class="wk-margin"><h4>Åsheim-elever feiret Trøndersk matmanifest med å gjøre om ungdomsskolen til luksusrestaurant.</h4>
+</div>
+            
+            
+                        <p><a class="wk-button wk-button-large wk-button-primary" href="/index.php/12-toppsak/184-10-arsfest-med-tronderlaks-a-la-asia">Les mer</a></p>
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.wk-overlay-panel)', $('#wk-grid30a')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="wk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+<p></p></div><div class="uk-margin-large" uk-scrollspy-class="" style="visibility: hidden;"><p>
+
+</p><div id="wk-gridad5" class="wk-grid-width-1-1 wk-grid-width-medium-1-2 wk-grid wk-grid-match wk-text-left " data-wk-grid-match="{target:'> div > .wk-panel', row:true}" data-wk-grid-margin="">
+
+
+    <div class="wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover" style="min-height: 441px;">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/11-tv-podkast/183-se-den-morsomme-hostforestillingen-i-allrommet" title="Se den morsomme høstrevyen"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201120_091745-36d9432a3c4aca7cdcd0287b83b31ac1.jpg" class=" wk-overlay-scale" alt="Se den morsomme høstrevyen" width="1920" height="1080" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/11-tv-podkast/183-se-den-morsomme-hostforestillingen-i-allrommet">Se den morsomme høstrevyen</a>
+                
+                
+            </h3>
+            
+            
+            
+                        <div class="wk-margin"><h4>I høst hadde produksjon for scene-elevene en morsom forstilling i allrommet. Her kan du se den igjen.</h4>
+</div>
+            
+            
+                        <p><a class="wk-button wk-button-large wk-button-primary" href="/index.php/11-tv-podkast/183-se-den-morsomme-hostforestillingen-i-allrommet">Les mer</a></p>
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover" style="min-height: 441px;">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/9-sport-og-kultur/180-dette-har-jeg-savnet" title="- Dette har jeg savnet"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201216_140527_resized_20201216_020539110-8ca4017050ee5e344365ee968ae34cad.jpg" class=" wk-overlay-scale" alt="- Dette har jeg savnet" width="1920" height="1080" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/9-sport-og-kultur/180-dette-har-jeg-savnet">- Dette har jeg savnet</a>
+                
+                
+            </h3>
+            
+            
+            
+                        <div class="wk-margin"><h4>Rektor Anne koste seg da hele Åsheim ungdomsskole samlet seg for første gang&nbsp;siden covid-19 kom.</h4>
+</div>
+            
+            
+                        <p><a class="wk-button wk-button-large wk-button-primary" href="/index.php/9-sport-og-kultur/180-dette-har-jeg-savnet">Les mer</a></p>
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.wk-overlay-panel)', $('#wk-gridad5')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="wk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+<p></p></div>
+<div class="uk-margin" uk-scrollspy-class="" style="visibility: hidden;">
+        <a class="el-link" href="https://www.facebook.com/siktpaasheim/?modal=admin_todo_tour"><img class="el-image" alt="" data-src="/templates/yootheme/cache/Facebook-fe070705.jpeg" data-srcset="/templates/yootheme/cache/Facebook-554ae103.jpeg 768w, /templates/yootheme/cache/Facebook-b5ab4d8f.jpeg 1024w, /templates/yootheme/cache/Facebook-148ced06.jpeg 1277w, /templates/yootheme/cache/Facebook-fe070705.jpeg 1280w" data-sizes="(min-width: 1280px) 1280px" data-width="1278" data-height="166" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1280&quot; height=&quot;166&quot;></svg>"></a>    
+    
+</div>
+
+            
+        
+    
+</div>
+</div>
+
+</div>                
+            
+        
+    
+</div>
+
+<div class="uk-section-default uk-section uk-padding-remove-top">
+    
+        
+        
+        
+            
+                                <div class="uk-container">
+
+<div class="uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
+<div class="uk-width-expand@m uk-grid-item-match uk-first-column">
+        <div class="uk-tile-muted uk-tile">    
+        
+            
+            
+                
+<h1 class="uk-text-center uk-h2 uk-heading-divider uk-text-primary">        Nyheter    </h1><div class="uk-margin"><p>
+
+</p><div id="wk-grid364" class="wk-grid-width-1-1 wk-grid-width-medium-1-1 wk-grid wk-grid-match wk-text-left " data-wk-grid-match="{target:'> div > .wk-panel', row:true}" data-wk-grid-margin="">
+
+
+    <div class="wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/8-nyheter/179-her-er-planen-for-resten-av-temauka" title="Her er planen for resten av temauka"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201214_180605-9e9904dd26788dc6239bb8c434e5422c.jpg" class=" wk-overlay-scale" alt="Her er planen for resten av temauka" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/8-nyheter/179-her-er-planen-for-resten-av-temauka">Her er planen for resten av temauka</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="wk-grid-margin wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/8-nyheter/178-ideer-fra-elevene-skal-gjore-asheim-bedre" title="Ideer fra elevene skal gjøre Åsheim bedre"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201210_135028_resized_20201210_015038127-7861d347e55cc2131176e4b88100fa4f.jpg" class=" wk-overlay-scale" alt="Ideer fra elevene skal gjøre Åsheim bedre" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/8-nyheter/178-ideer-fra-elevene-skal-gjore-asheim-bedre">Ideer fra elevene skal gjøre Åsheim bedre</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.wk-overlay-panel)', $('#wk-grid364')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="wk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+<p></p></div>
+<h1 class="uk-text-center uk-h2 uk-heading-divider uk-text-primary">        TV    </h1><div class="uk-margin"><p>
+
+</p><div id="wk-gridb35" class="wk-grid-width-1-1 wk-grid-width-medium-1-1 wk-grid wk-grid-match wk-text-left " data-wk-grid-match="{target:'> div > .wk-panel', row:true}" data-wk-grid-margin="">
+
+
+    <div class="wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/11-tv-podkast/183-se-den-morsomme-hostforestillingen-i-allrommet" title="Se den morsomme høstrevyen"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201120_091745-cf599314d76d3d4f3764e87c54040432.jpg" class=" wk-overlay-scale" alt="Se den morsomme høstrevyen" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/11-tv-podkast/183-se-den-morsomme-hostforestillingen-i-allrommet">Se den morsomme høstrevyen</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="wk-grid-margin wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/11-tv-podkast/182-endelig-tar-laererne-av-seg-maskene" title="Endelig tar lærerne av seg maskene!"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/Skjermbilde_2020-12-21_kl_180059-f4ca89fe5c12398e8d22707c3837153f.png" class=" wk-overlay-scale" alt="Endelig tar lærerne av seg maskene!" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/11-tv-podkast/182-endelig-tar-laererne-av-seg-maskene">Endelig tar lærerne av seg maskene!</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.wk-overlay-panel)', $('#wk-gridb35')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="wk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+<p></p></div>
+            
+        
+        </div>
+    
+</div>
+
+<div class="uk-width-expand@m uk-grid-item-match uk-grid-margin uk-first-column">
+        <div class="uk-tile-muted uk-tile">    
+        
+            
+            
+                
+<h1 class="uk-text-center uk-h2 uk-heading-divider uk-text-primary">        Sport &amp; kultur    </h1><div class="uk-margin"><p>
+
+</p><div id="wk-grid302" class="wk-grid-width-1-1 wk-grid-width-medium-1-1 wk-grid wk-grid-match wk-text-left " data-wk-grid-match="{target:'> div > .wk-panel', row:true}" data-wk-grid-margin="">
+
+
+    <div class="wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/9-sport-og-kultur/180-dette-har-jeg-savnet" title="- Dette har jeg savnet"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201216_140527_resized_20201216_020539110-8d7ad1cd9b0dd792b27840e8e2567e3a.jpg" class=" wk-overlay-scale" alt="- Dette har jeg savnet" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/9-sport-og-kultur/180-dette-har-jeg-savnet">- Dette har jeg savnet</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="wk-grid-margin wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/9-sport-og-kultur/175-sjokkerende-at-disse-spillene-er-gratis" title="Sjokkerende at disse spillene er gratis"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/gratisspill-500fffd9bf1ce147167d3db153ad69d7.jpg" class=" wk-overlay-scale" alt="Sjokkerende at disse spillene er gratis" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/9-sport-og-kultur/175-sjokkerende-at-disse-spillene-er-gratis">Sjokkerende at disse spillene er gratis</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.wk-overlay-panel)', $('#wk-grid302')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="wk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+<p></p></div>
+<h1 class="uk-text-center uk-h2 uk-heading-divider uk-text-primary">        Debatt    </h1><div class="uk-margin"><p>
+
+</p><div id="wk-gridb49" class="wk-grid-width-1-1 wk-grid-width-medium-1-1 wk-grid wk-grid-match wk-text-left " data-wk-grid-match="{target:'> div > .wk-panel', row:true}" data-wk-grid-margin="">
+
+
+    <div class="wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/10-debatt/173-no-er-det-pa-tide-at-skulen-snakkar-politikk-sa-elevane-forstar" title="- No er det på tide at skulen snakkar politikk så elevane forstår"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/IMG_20201120_115459-8a0f12d7c5a9d5402cfb3574d68409a1.jpg" class=" wk-overlay-scale" alt="- No er det på tide at skulen snakkar politikk så elevane forstår" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/10-debatt/173-no-er-det-pa-tide-at-skulen-snakkar-politikk-sa-elevane-forstar">- No er det på tide at skulen snakkar politikk så elevane forstår</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="wk-grid-margin wk-row-first">
+        <div class="wk-panel wk-panel-box wk-panel-box-primary wk-panel-box-primary-hover wk-overlay-hover">
+
+                        <a class="wk-position-cover wk-position-z-index" href="/index.php/10-debatt/168-folkets-stemme-biden-eller-trump" title="Folkets stemme: Biden eller Trump"></a>
+            
+            
+                        <div class="wk-text-center wk-panel-teaser"><div class="wk-overlay "><img src="/media/widgetkit/TrumpBiden-082775c303bab80ce8ba7fad9a7f7da9.jpg" class=" wk-overlay-scale" alt="Folkets stemme: Biden eller Trump" width="600" height="350" style=""></div></div>
+            
+            
+                        <h3 class="wk-h1 wk-margin-top-remove">
+
+                                    <a class="wk-link-reset" href="/index.php/10-debatt/168-folkets-stemme-biden-eller-trump">Folkets stemme: Biden eller Trump</a>
+                
+                
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.wk-overlay-panel)', $('#wk-gridb49')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="wk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+<p></p></div>
+            
+        
+        </div>
+    
+</div>
+</div>
+
+
+
+<div class="uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
+<div class="uk-width-expand@m uk-first-column">
+    
+        
+            
+            
+                <hr class="uk-divider-icon">
+            
+        
+    
+</div>
+</div>
+
+
+
+<div class="uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
+<div class="uk-width-expand@m uk-first-column">
+    
+        
+            
+            
+                
+<h1>        Vi er <strong>SIKT på Åsheim</strong>    </h1>
+            
+        
+    
+</div>
+</div>
+
+
+
+<div class="uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
+<div class="uk-width-expand@m uk-first-column">
+    
+        
+            
+            
+                
+<div class="uk-margin uk-text-center">
+    <div class="uk-child-width-1-3 uk-child-width-1-4@s uk-child-width-1-5@m uk-child-width-1-5@l uk-grid-large uk-grid" uk-grid="">        <div class="uk-first-column">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121550-ff0f3a47.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121550-ff0f3a47.png 591w" data-sizes="(min-width: 591px) 591px" data-width="591" data-height="592" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;591&quot; height=&quot;592&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        William    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div>
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094252-ebf6045d.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094252-ebf6045d.png 535w" data-sizes="(min-width: 535px) 535px" data-width="535" data-height="535" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;535&quot; height=&quot;535&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Kenny    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div>
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094309-91ce439a.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094309-91ce439a.png 488w" data-sizes="(min-width: 488px) 488px" data-width="488" data-height="488" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;488&quot; height=&quot;488&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Leo    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div>
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094353-a4ad1e95.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094353-a4ad1e95.png 288w" data-sizes="(min-width: 288px) 288px" data-width="288" data-height="288" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;288&quot; height=&quot;288&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Mico    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin uk-first-column">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094455-89ddb90c.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094455-89ddb90c.png 326w" data-sizes="(min-width: 326px) 326px" data-width="326" data-height="324" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;326&quot; height=&quot;324&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Mathias    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094518-5a7e3562.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094518-5a7e3562.png 441w" data-sizes="(min-width: 441px) 441px" data-width="441" data-height="440" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;441&quot; height=&quot;440&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Christopher    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094555-7c2f573e.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094555-7c2f573e.png 566w" data-sizes="(min-width: 566px) 566px" data-width="566" data-height="565" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;566&quot; height=&quot;565&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Thea Emilie    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094621-89680ae4.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094621-89680ae4.png 265w" data-sizes="(min-width: 265px) 265px" data-width="265" data-height="268" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;265&quot; height=&quot;268&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Lukas    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin uk-first-column">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121404-854f97c1.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121404-854f97c1.png 311w" data-sizes="(min-width: 311px) 311px" data-width="311" data-height="310" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;311&quot; height=&quot;310&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Michelle    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121421-e276ffdd.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121421-e276ffdd.png 279w" data-sizes="(min-width: 279px) 279px" data-width="279" data-height="278" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;279&quot; height=&quot;278&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Stina    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121433-ec10fc01.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121433-ec10fc01.png 310w" data-sizes="(min-width: 310px) 310px" data-width="310" data-height="311" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;310&quot; height=&quot;311&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Patrik    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121449-1112ce79.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121449-1112ce79.png 489w" data-sizes="(min-width: 489px) 489px" data-width="489" data-height="488" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;489&quot; height=&quot;488&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Erlend    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin uk-first-column">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121520-37596cbf.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121520-37596cbf.png 291w" data-sizes="(min-width: 291px) 291px" data-width="291" data-height="292" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;291&quot; height=&quot;292&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Storm    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/IMG_20201214_110741_resized_20201214_110804350-00f96b08.jpeg" data-srcset="/templates/yootheme/cache/IMG_20201214_110741_resized_20201214_110804350-885e19e8.jpeg 768w, /templates/yootheme/cache/IMG_20201214_110741_resized_20201214_110804350-56bcdef3.jpeg 1024w, /templates/yootheme/cache/IMG_20201214_110741_resized_20201214_110804350-38421926.jpeg 1366w, /templates/yootheme/cache/IMG_20201214_110741_resized_20201214_110804350-00f96b08.jpeg 1368w" data-sizes="(min-width: 1368px) 1368px" data-width="1368" data-height="1368" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1366&quot; height=&quot;1366&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Tiril    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121533-4d89d6b0.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_121533-4d89d6b0.png 312w" data-sizes="(min-width: 312px) 312px" data-width="312" data-height="312" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;312&quot; height=&quot;312&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Odin    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094216-ffd94a16.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094216-ffd94a16.png 326w" data-sizes="(min-width: 326px) 326px" data-width="326" data-height="294" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;326&quot; height=&quot;294&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Sebastian    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        <div class="uk-grid-margin uk-first-column">
+<div class="el-item uk-light uk-inline-clip uk-transition-toggle" tabindex="0">
+    
+    <img class="el-image uk-transition-scale-up uk-transition-opaque" alt="" data-src="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094333-08682571.png" data-srcset="/templates/yootheme/cache/Skjermbilde_2020-10-14_kl_094333-08682571.png 344w" data-sizes="(min-width: 344px) 344px" data-width="344" data-height="343" uk-img="" src="data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;344&quot; height=&quot;343&quot;></svg>">    
+                    <div class="uk-position-bottom-center"><div class="uk-panel uk-padding uk-transition-fade">
+
+<h3 class="el-title uk-margin">        Nataniel    </h3>
+</div></div>    
+    
+    
+</div>
+</div>        </div>
+
+</div>
+<div class="uk-margin"><table style="border-color: #f7f8fa; background-color: #f7f8fa; margin-left: auto; margin-right: auto;" cellpadding="40">
+<tbody>
+<tr>
+<td>
+<p><span style="color: #000000;"><strong>SIKT på Åsheim</strong>&nbsp;er Åsheim ungdomsskoles nettavis, etablert i desember 2018.&nbsp;<strong>SIKT</strong>s&nbsp;formål er å informere og underholde elever, ansatte og foresatte på Åsheim. <strong>SIKT</strong>&nbsp;er en uavhengig publikasjon og legger de etiske retningslinjene i Vær varsom-plakaten til grunn for sin virksomhet.&nbsp;Redaksjonen består av journalister fra åttende og tiende trinn som har valgfaget medier og kommunikasjon. Ansvarlig redaktør i avisa er Mikkel Salcedo-Hokstad.</span></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+            
+        
+    
+</div>
+</div>
+
+</div>                
+            
+        
+    
+</div>
+
+            
+            
+
+            
+<div class="uk-section-secondary uk-section uk-padding-remove-bottom">
+    
+        
+        
+        
+            
+                                <div class="uk-container">
+
+<div class="uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
+<div class="uk-width-expand@m uk-first-column">
+    
+        
+            
+            
+                
+<div class="uk-panel">
+    
+    
+<ul class="uk-subnav">
+<li><a href="/index.php/logg-pa">Logg på</a></li></ul>
+
+</div>
+
+            
+        
+    
+</div>
+
+<div class="uk-width-expand@m uk-grid-margin uk-first-column">
+    
+        
+            
+            
+                <div class="uk-margin"><p style="text-align: center;">© Copyright 2018 SIKT på Åsheim<br>Levert av Rena Media DA</p></div>
+            
+        
+    
+</div>
+
+<div class="uk-width-expand@m uk-grid-margin uk-first-column">
+    
+        
+            
+            
+                
+<div class="uk-margin uk-text-right">    <div class="uk-child-width-auto uk-grid-small uk-flex-right uk-grid" uk-grid="">
+            <div class="uk-first-column">
+            <a class="el-link uk-icon-button uk-icon" href="https://twitter.com" uk-icon="icon: twitter;"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"> <path d="M19,4.74 C18.339,5.029 17.626,5.229 16.881,5.32 C17.644,4.86 18.227,4.139 18.503,3.28 C17.79,3.7 17.001,4.009 16.159,4.17 C15.485,3.45 14.526,3 13.464,3 C11.423,3 9.771,4.66 9.771,6.7 C9.771,6.99 9.804,7.269 9.868,7.539 C6.795,7.38 4.076,5.919 2.254,3.679 C1.936,4.219 1.754,4.86 1.754,5.539 C1.754,6.82 2.405,7.95 3.397,8.61 C2.79,8.589 2.22,8.429 1.723,8.149 L1.723,8.189 C1.723,9.978 2.997,11.478 4.686,11.82 C4.376,11.899 4.049,11.939 3.713,11.939 C3.475,11.939 3.245,11.919 3.018,11.88 C3.49,13.349 4.852,14.419 6.469,14.449 C5.205,15.429 3.612,16.019 1.882,16.019 C1.583,16.019 1.29,16.009 1,15.969 C2.635,17.019 4.576,17.629 6.662,17.629 C13.454,17.629 17.17,12 17.17,7.129 C17.17,6.969 17.166,6.809 17.157,6.649 C17.879,6.129 18.504,5.478 19,4.74"></path></svg></a>        </div>
+            <div>
+            <a class="el-link uk-icon-button uk-icon" href="https://facebook.com" uk-icon="icon: facebook;"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"> <path d="M11,10h2.6l0.4-3H11V5.3c0-0.9,0.2-1.5,1.5-1.5H14V1.1c-0.3,0-1-0.1-2.1-0.1C9.6,1,8,2.4,8,5v2H5.5v3H8v8h3V10z"></path></svg></a>        </div>
+            <div>
+            <a class="el-link uk-icon-button uk-icon" href="https://plus.google.com" uk-icon="icon: google-plus;"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9,9c0,2.7-0.6,5-3.2,6.3c-3.7,1.8-8.1,0.2-9.4-3.6C-1.1,7.6,1.9,3.3,6.1,3c1.7-0.1,3.2,0.3,4.6,1.3 c0.1,0.1,0.3,0.2,0.4,0.4c-0.5,0.5-1.2,1-1.7,1.6c-1-0.8-2.1-1.1-3.5-0.9C5,5.6,4.2,6,3.6,6.7c-1.3,1.3-1.5,3.4-0.5,5 c1,1.7,2.6,2.3,4.6,1.9c1.4-0.3,2.4-1.2,2.6-2.6H6.9V9H12.9z"></path> <polygon points="20,9 20,11 18,11 18,13 16,13 16,11 14,11 14,9 16,9 16,7 18,7 18,9 "></polygon></svg></a>        </div>
+    
+    </div>
+</div>
+
+            
+        
+    
+</div>
+</div>
+
+</div>                
+            
+        
+    
+</div>
+
+        </div>
+
+        
+        
+
+    
+
+<link id="appwriter-cloud-style" type="text/css" rel="stylesheet" href="chrome-extension://lokadhdaghfjbmailhhenifjejpokche/css/content.css"><div id="appwriter-loading" style="display: none;"><img src="chrome-extension://lokadhdaghfjbmailhhenifjejpokche/images/ajax-loader-black.gif"></div><div id="appwriter-predictions-wrapper" style=""><div id="appwriter-predictions-arrow-top"></div><div id="appwriter-predictions-border"><div id="appwriter-predictions-pin"><button id="appwriter-predictions-pin-btn" class=""><i id="appwriter-predictions-pin-btn-icon"></i></button></div><div id="appwriter-predictions"><div id="appwriter-prediction-numbers"></div><div id="appwriter-speech-model-predictions"></div><div id="appwriter-dictionary-predictions"></div></div><div id="appwriter-predictions-pagers"><div id="appwriter-speech-model-predictions-pager"><div id="appwriter-speech-model-predictions-pager-left-arrow"><div></div></div><div id="appwriter-speech-model-predictions-pager-text"></div><div id="appwriter-speech-model-predictions-pager-right-arrow"><div></div></div></div><div id="appwriter-dictionary-predictions-pager"><div id="appwriter-dictionary-predictions-pager-left-arrow"><div></div></div><div id="appwriter-dictionary-predictions-pager-text"></div><div id="appwriter-dictionary-predictions-pager-right-arrow"><div></div></div></div></div></div><div id="appwriter-predictions-arrow-bottom"></div><div id="appwriter-predictions-flyout-btn"><div id="appwriter-predictions-flyout-arrow"></div></div></div><div id="appwriter-menu" class="appwriter-menu appwriter-disabled" style=""><div class="appwriter-menu-disable-overlay appwriter-dom" i18n-title="menuLoginToUse" title=""></div>
+<div class="appwriter-menu-button appwriter-dom appwriter-menu-button--disabled" data-appwriter-action="play" title="F8 / Alt+Shift+P" i18n-data-tooltip="playTooltip" data-tooltip="">
+  <div class="appwriter-icon__play"></div>
+</div>
+<div class="appwriter-popup appwriter-dom appwriter-popup--disabled" data-appwriter-action="profile-menu" i18n-data-tooltip="readingSettingsTooltip" data-tooltip="">
+  <div class="appwriter-popup__content">
+    <div class="appwriter-icon__listen"></div>
+  </div>
+  
+</div>
+<div class="appwriter-popup appwriter-popup--writing-settings appwriter-dom appwriter-popup--disabled" data-appwriter-action="profile-menu" i18n-data-tooltip="writingSettingsTooltip" data-tooltip="">
+  <div class="appwriter-popup__content">
+    <div class="appwriter-icon__prediction"></div>
+  </div>
+  
+</div>
+<div class="appwriter-menu-button appwriter-dom" data-appwriter-action="dictionaryLookup" i18n-data-tooltip="dictionaryLookupTooltip" data-tooltip="" style="display: none;">
+  <div class="appwriter-icon__page"></div>
+</div>
+<div class="appwriter-popup appwriter-popup--profile-select appwriter-dom" i18n-data-tooltip="languageSelectionTooltip" data-tooltip="">
+  <div class="appwriter-popup__content">
+    <div class="appwriter-popup__content-icon appwriter-popup__content-icon--hidden"></div>
+    <div class="appwriter-popup__content-text" i18n="selectLanguage">Velg språk</div>
+  </div>
+  
+</div></div></body></html>

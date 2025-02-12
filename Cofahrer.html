@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoFahrer</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            height: 100vh;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        h1 {
+            color: #ffffff;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 20px;
+            width: 80%;
+            max-width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        button {
+            padding: 12px 25px;
+            font-size: 18px;
+            font-weight: bold;
+            background-color: #3498db;
+            color: #ffffff;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        button:hover {
+            background-color: #2980b9;
+            transform: scale(1.1);
+            box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5);
+        }
+
+        .output {
+            font-size: 1.2rem;
+            white-space: pre-wrap;
+            line-height: 1.8;
+            width: 80%;
+            max-width: 600px;
+            margin-top: 20px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <h1>CoFahrer</h1>
+    <p>Hier können Sie mit CoFahrer chatten!<br>Dieser kleine Chatbot hat KI (keine Intelligenz), und kann Ihre Fragen beantworten.</p>
+    <input type="text" id="userInput" placeholder="Stellen Sie bitte eine Frage...">
+    <button onclick="generateResponse()">Generier</button>
+    <div class="output" id="output"></div>
+
+    <script>
+        function generateResponse() {
+            const outputEl = document.getElementById('output');
+            const responses = [
+                "Genau, genau.",
+                "Ich bin deiner Meinung.",
+                "Das stimmt, das stimmt.",
+                "Ich verstehe nur Bahnhof.",
+                "Möglicherweise.",
+                "Das ist eine interessante Frage.",
+                "Vielleicht, vielleicht nicht.",
+                "Da muss ich kurz nachdenken.",
+                "Das könnte sein.",
+                "Darüber habe ich noch nie nachgedacht."
+            ];
+            
+            const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+            let index = 0;
+            outputEl.textContent = '';
+            
+            function addLetter() {
+                if (index < randomResponse.length) {
+                    outputEl.textContent += randomResponse[index];
+                    index++;
+                    setTimeout(addLetter, 50);
+                }
+            }
+            
+            addLetter();
+        }
+    </script>
+</body>
+</html>
